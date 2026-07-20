@@ -38,4 +38,4 @@ class Config:
     MAX_QUEUE_SIZE = 70
 
     # Authorized Groups
-    GROUP_ID = -1002335588415
+    GROUP_ID = -5129510877
